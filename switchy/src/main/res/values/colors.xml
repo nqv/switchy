@@ -1,0 +1,11 @@
+<resources>
+    <color name="button_background">#222222</color>
+    <color name="button_text_color">#AAAAAA</color>
+    <color name="state_disabled">#222222</color>
+    <color name="state_enabled">#224422</color>
+    <color name="state_turning_off">#442222</color>
+    <color name="state_turning_on">#222244</color>
+    <color name="state_unknown">#444422</color>
+    <color name="button_brightness_min">#222222</color>
+    <color name="button_brightness_max">#666666</color>
+</resources>

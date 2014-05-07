@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Switchy</string>
+    <string name="wifi_label">WIF</string>
+    <string name="bluetooth_label">BLT</string>
+    <string name="location_label">LCT</string>
+    <string name="sync_label">SYN</string>
+    <string name="network_label">NET</string>
+    <string name="brightness_label">BRG</string>
+    <string name="rotation_label">ROT</string>
+    <string name="settings_label">...</string>
+</resources>

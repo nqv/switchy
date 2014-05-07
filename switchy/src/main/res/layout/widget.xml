@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/widget_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:alpha="@dimen/widget_opacity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button style="@style/WidgetButton"
+            android:id="@id/button_wifi"
+            android:text="@string/wifi_label">
+        </Button>
+        <Button style="@style/WidgetButton"
+            android:id="@id/button_network"
+            android:text="@string/network_label">
+        </Button>
+        <Button style="@style/WidgetButton"
+            android:id="@id/button_bluetooth"
+            android:text="@string/bluetooth_label">
+        </Button>
+        <Button style="@style/WidgetButton"
+            android:id="@id/button_location"
+            android:text="@string/location_label">
+        </Button>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button style="@style/WidgetButton"
+            android:id="@id/button_rotation"
+            android:text="@string/rotation_label">
+        </Button>
+        <Button style="@style/WidgetButton"
+            android:id="@id/button_sync"
+            android:text="@string/sync_label">
+        </Button>
+        <Button style="@style/WidgetButton"
+            android:id="@id/button_brightness"
+            android:text="@string/brightness_label">
+        </Button>
+        <Button style="@style/WidgetButton"
+            android:id="@id/button_settings"
+            android:text="@string/settings_label">
+        </Button>
+    </LinearLayout>
+</LinearLayout>

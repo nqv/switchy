@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="widget_min_width">110dp</dimen>
+    <dimen name="widget_min_height">40dp</dimen>
+    <dimen name="button_padding">0dp</dimen>
+    <dimen name="button_margin">0dp</dimen>
+    <dimen name="button_min_width">37dp</dimen>
+    <dimen name="button_min_height">32dp</dimen>
+    <dimen name="button_max_width">37dp</dimen>
+    <dimen name="button_max_height">32dp</dimen>
+    <dimen name="vertical_spacing">0dp</dimen>
+    <dimen name="horizontal_pacing">0dp</dimen>
+    <item name="widget_opacity" type="dimen" format="float">0.8</item>
+</resources>

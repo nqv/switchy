@@ -1,0 +1,11 @@
+<resources>
+    <item name="widget_container" type="id"/>
+    <item name="button_wifi" type="id"/>
+    <item name="button_bluetooth" type="id"/>
+    <item name="button_location" type="id"/>
+    <item name="button_sync" type="id"/>
+    <item name="button_network" type="id"/>
+    <item name="button_brightness" type="id"/>
+    <item name="button_rotation" type="id"/>
+    <item name="button_settings" type="id"/>
+</resources>
