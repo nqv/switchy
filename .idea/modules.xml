@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Switchy.iml" filepath="$PROJECT_DIR$/Switchy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/switchy/switchy.iml" filepath="$PROJECT_DIR$/switchy/switchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchy.iml" filepath="$PROJECT_DIR$/switchy.iml" />
     </modules>
   </component>
 </project>
